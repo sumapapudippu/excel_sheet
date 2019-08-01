@@ -35,3 +35,6 @@ except IndexError:
 exit
 path = ''
 print file_copy(path)
+#I dont how manage this files 
+# i will learn this
+
